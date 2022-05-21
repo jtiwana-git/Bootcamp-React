@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bootcamp-React/static/css/main.d2f5c33b.css",
+    "main.js": "/Bootcamp-React/static/js/main.f52058b9.js",
+    "static/js/787.57f2060b.chunk.js": "/Bootcamp-React/static/js/787.57f2060b.chunk.js",
+    "static/media/mcu-deep-diver-demo.gif": "/Bootcamp-React/static/media/mcu-deep-diver-demo.a151fb52af8bc4e9246c.gif",
+    "static/media/firstPortfolio.gif": "/Bootcamp-React/static/media/firstPortfolio.e7b128736b6a24fb668f.gif",
+    "static/media/GoodReadMe.gif": "/Bootcamp-React/static/media/GoodReadMe.73aa4287cc927261687a.gif",
+    "static/media/Day-Planner.gif": "/Bootcamp-React/static/media/Day-Planner.fc4a0b53aab124886a91.gif",
+    "static/media/Hackathon.png": "/Bootcamp-React/static/media/Hackathon.7649e52bff409d1796c2.png",
+    "static/media/NoteTaker.gif": "/Bootcamp-React/static/media/NoteTaker.30fa70a6703b1c02d0cb.gif",
+    "static/media/JagdeepTiwanaCV.pdf": "/Bootcamp-React/static/media/JagdeepTiwanaCV.4bca7aa43152fd30750c.pdf",
+    "static/media/Basketball.png": "/Bootcamp-React/static/media/Basketball.9d1b7b50c33ff3f9bc3a.png",
+    "index.html": "/Bootcamp-React/index.html",
+    "main.d2f5c33b.css.map": "/Bootcamp-React/static/css/main.d2f5c33b.css.map",
+    "main.f52058b9.js.map": "/Bootcamp-React/static/js/main.f52058b9.js.map",
+    "787.57f2060b.chunk.js.map": "/Bootcamp-React/static/js/787.57f2060b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2f5c33b.css",
+    "static/js/main.f52058b9.js"
+  ]
+}
